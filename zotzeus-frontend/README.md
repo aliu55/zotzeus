@@ -24,16 +24,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 This is the command you will use before deploying the project.
 
-## Workshop Materials
-
-### Deployment Link
-
-The URL for defining the homepage is `http://<your_github_username_here>.github.io/<name_of_repo>`
-
-### Video Links
-
-* [TBD](https://google.com/)
-
 ### Included Packages
 
 * [ReactJS](https://reactjs.org/)
@@ -45,6 +35,7 @@ The URL for defining the homepage is `http://<your_github_username_here>.github.
 
 ## Website Screenshots
 Fix this, update to a screenshot of our actual website
-#### Stock View
+#### Club/Class View
 <img width="1633" alt="Screen Shot 2020-10-02 at 9 31 01 PM" src="https://user-images.githubusercontent.com/13127625/95133850-c9212680-0716-11eb-8808-8167e208fd63.png">
 
+#### Club/Class Info View
