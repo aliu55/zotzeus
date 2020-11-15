@@ -2,7 +2,7 @@
 
 ## Basic overview
 
-This is the backend for our
+This is the backend for our ZotZeus Project.
 
 Deployed version can be found at https://zothacks-2020-fundamentals.herokuapp.com/
 
