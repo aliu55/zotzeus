@@ -32,7 +32,6 @@ This is the command you will use before deploying the project.
 * [Framer Motion](https://www.framer.com/motion/)
 
 ## Website Screenshots
-Fix this, update to a screenshot of our actual website
 #### Club/Class View
 <img width="1633" alt="Landing Page" src="Screen Shot 2020-11-15 at 12.06.42 AM.png">
 <img width="1633" alt="Club/Class View" src="Screen Shot 2020-11-15 at 12.26.03 AM.png">
