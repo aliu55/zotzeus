@@ -34,6 +34,8 @@ This is the command you will use before deploying the project.
 ## Website Screenshots
 Fix this, update to a screenshot of our actual website
 #### Club/Class View
-<img width="1633" alt="Screen Shot 2020-10-02 at 9 31 01 PM" src="Screen Shot 2020-11-15 at 12.06.42 AM.png">
+<img width="1633" alt="Landing Page" src="Screen Shot 2020-11-15 at 12.06.42 AM.png">
+<img width="1633" alt="Club/Class View" src="Screen Shot 2020-11-15 at 12.26.03 AM.png">
 
 #### Club/Class Info View
+<img width="1633" alt="Club Info View" src="Screen Shot 2020-11-15 at 12.26.12 AM.png">
