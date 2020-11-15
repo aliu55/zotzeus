@@ -1,4 +1,4 @@
-⛈️Organize your tempestuous life with the power of Zot Zeus! ⛈️
+# ⛈️Organize your tempestuous life with the power of Zot Zeus! ⛈️
 
 Zot Zeus was built to handle your needs in a virtual learning environment. With the addition of new information and virtual rooms to meet in, your bookmarks bar becomes easily cluttered with Zoom links, Piazza boards, and social media sites. 
 
