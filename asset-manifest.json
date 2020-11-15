@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zotzeus-frontend/static/css/main.c3c2db33.chunk.css",
+    "main.js": "/zotzeus-frontend/static/js/main.8553c1bf.chunk.js",
+    "main.js.map": "/zotzeus-frontend/static/js/main.8553c1bf.chunk.js.map",
+    "runtime-main.js": "/zotzeus-frontend/static/js/runtime-main.c2079d30.js",
+    "runtime-main.js.map": "/zotzeus-frontend/static/js/runtime-main.c2079d30.js.map",
+    "static/css/2.5a2f7233.chunk.css": "/zotzeus-frontend/static/css/2.5a2f7233.chunk.css",
+    "static/js/2.40bb8108.chunk.js": "/zotzeus-frontend/static/js/2.40bb8108.chunk.js",
+    "static/js/2.40bb8108.chunk.js.map": "/zotzeus-frontend/static/js/2.40bb8108.chunk.js.map",
+    "index.html": "/zotzeus-frontend/index.html",
+    "precache-manifest.e51a1a1a5063a51fa72d8a1964ee8852.js": "/zotzeus-frontend/precache-manifest.e51a1a1a5063a51fa72d8a1964ee8852.js",
+    "service-worker.js": "/zotzeus-frontend/service-worker.js",
+    "static/css/2.5a2f7233.chunk.css.map": "/zotzeus-frontend/static/css/2.5a2f7233.chunk.css.map",
+    "static/css/main.c3c2db33.chunk.css.map": "/zotzeus-frontend/static/css/main.c3c2db33.chunk.css.map",
+    "static/js/2.40bb8108.chunk.js.LICENSE.txt": "/zotzeus-frontend/static/js/2.40bb8108.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2079d30.js",
+    "static/css/2.5a2f7233.chunk.css",
+    "static/js/2.40bb8108.chunk.js",
+    "static/css/main.c3c2db33.chunk.css",
+    "static/js/main.8553c1bf.chunk.js"
+  ]
+}
