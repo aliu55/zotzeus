@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0ff539cc5bc53c6d2d48bf143643438",
+    "revision": "e697895922e71bff0259f170e9f745ba",
     "url": "/zotzeus/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zotzeus/static/css/2.5a2f7233.chunk.css"
   },
   {
-    "revision": "14da5adf2c4c43380cf5",
+    "revision": "f32d1e35e6af5e88e7fd",
     "url": "/zotzeus/static/css/main.c3c2db33.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zotzeus/static/js/2.40bb8108.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14da5adf2c4c43380cf5",
-    "url": "/zotzeus/static/js/main.4c57dd6d.chunk.js"
+    "revision": "f32d1e35e6af5e88e7fd",
+    "url": "/zotzeus/static/js/main.cdd233c8.chunk.js"
   },
   {
     "revision": "e476eff56bd434f4fbcd",

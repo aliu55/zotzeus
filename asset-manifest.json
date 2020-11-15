@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zotzeus/static/css/main.c3c2db33.chunk.css",
-    "main.js": "/zotzeus/static/js/main.4c57dd6d.chunk.js",
-    "main.js.map": "/zotzeus/static/js/main.4c57dd6d.chunk.js.map",
+    "main.js": "/zotzeus/static/js/main.cdd233c8.chunk.js",
+    "main.js.map": "/zotzeus/static/js/main.cdd233c8.chunk.js.map",
     "runtime-main.js": "/zotzeus/static/js/runtime-main.dda920bf.js",
     "runtime-main.js.map": "/zotzeus/static/js/runtime-main.dda920bf.js.map",
     "static/css/2.5a2f7233.chunk.css": "/zotzeus/static/css/2.5a2f7233.chunk.css",
     "static/js/2.40bb8108.chunk.js": "/zotzeus/static/js/2.40bb8108.chunk.js",
     "static/js/2.40bb8108.chunk.js.map": "/zotzeus/static/js/2.40bb8108.chunk.js.map",
     "index.html": "/zotzeus/index.html",
-    "precache-manifest.646b3c8744a2036849c2eb1df4045cd4.js": "/zotzeus/precache-manifest.646b3c8744a2036849c2eb1df4045cd4.js",
+    "precache-manifest.c7ce5b4cfaa40a6931f2dc304f6a5ed2.js": "/zotzeus/precache-manifest.c7ce5b4cfaa40a6931f2dc304f6a5ed2.js",
     "service-worker.js": "/zotzeus/service-worker.js",
     "static/css/2.5a2f7233.chunk.css.map": "/zotzeus/static/css/2.5a2f7233.chunk.css.map",
     "static/css/main.c3c2db33.chunk.css.map": "/zotzeus/static/css/main.c3c2db33.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.5a2f7233.chunk.css",
     "static/js/2.40bb8108.chunk.js",
     "static/css/main.c3c2db33.chunk.css",
-    "static/js/main.4c57dd6d.chunk.js"
+    "static/js/main.cdd233c8.chunk.js"
   ]
 }
