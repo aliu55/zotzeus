@@ -1,6 +1,6 @@
 # ZotZeus 2020 Front-end Repository
 
-This is the project repository for the ZotClubs website.
+This is the project repository for the ZotZeus website.
 
 This project was created using the [HackUCI React Template](https://github.com/hackuci/React-Template), which was bootstrapped off of [Create React App](https://github.com/facebook/create-react-app).
 
