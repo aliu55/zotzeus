@@ -2,7 +2,7 @@
 
 ## Basic overview
 
-This is the backend for our ZotZeus application, which handles the creation of all the information.
+This is the backend for our ZotZeus application, which handles the creation of all the information. The backend was created using a [template](https://github.com/hackuci/zothacks-2020-frontend) provided by a workshop hosted by Hack at UCI.
 
 ## Instructions
 
