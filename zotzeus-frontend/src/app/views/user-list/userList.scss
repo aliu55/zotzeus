@@ -1,0 +1,34 @@
+@import "globals/hack-variables.scss";
+
+.user-list {
+  width: 80vw;
+  padding-top: $xl-spacing;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.blur {
+  filter: blur(8px)
+}
+
+.button{
+  padding: $tiny-spacing $small-spacing $tiny-spacing $small-spacing ;
+  border-radius: $tiny-spacing;
+  background: white;
+  border: none;
+  font-weight: bold;
+  margin : $small-spacing;
+  margin : $small-spacing;
+}
+
+
+.button:hover {
+background: #ccc;
+cursor: pointer;
+}

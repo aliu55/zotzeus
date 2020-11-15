@@ -1,0 +1,138 @@
+{
+	"info": {
+		"_postman_id": "15964643-3cc4-48e4-9cf5-328eddb78526",
+		"name": "ZotClubs club info schema",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Club Info",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"title\": \"Zoom\",\n\t\"link\": \"uci.zoom.us.edu\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/club-info",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"club-info"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Club Info",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/club-info",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"club-info"
+					],
+					"query": [
+						{
+							"key": "_id",
+							"value": "5f7ea7d75eb9455d67953e13",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Club Info",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"title\": \"Facebook\",\n\t\"link\": \"facebook.com\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/club-info",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"club-info"
+					],
+					"query": [
+						{
+							"key": "_id",
+							"value": "5f7ea7d75eb9455d67953e13",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Club Info",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/club-info",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"club-info"
+					],
+					"query": [
+						{
+							"key": "_id",
+							"value": "5f7ea7d75eb9455d67953e12",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

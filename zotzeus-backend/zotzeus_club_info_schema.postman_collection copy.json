@@ -1,0 +1,138 @@
+{
+	"info": {
+		"_postman_id": "8882812c-ceb5-45d1-b084-b66298689de6",
+		"name": "ZotClubs club schema",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Club",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"clubName\": \"Hack at UCI\",\n\t\"email\": \"hackuci@uci.edu\",\n\t\"meetingTime\": \"Thursday 7-8:30 PM\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/club",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"club"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Club",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/club",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"club"
+					],
+					"query": [
+						{
+							"key": "_id",
+							"value": "afewewef",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Club",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"clubName\": \"Hack\",\n\t\"email\": \"hackuci@uci.edu\",\n\t\"meetingTime\": \"Wedneday 7-8:30 PM\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/club",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"club"
+					],
+					"query": [
+						{
+							"key": "_id",
+							"value": "5f7ea7d75eb9455d67953e13",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Club",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/club",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"club"
+					],
+					"query": [
+						{
+							"key": "_id",
+							"value": "5f7ea7d75eb9455d67953e12",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
