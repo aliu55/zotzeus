@@ -1,6 +1,6 @@
 # ZotZeus 2020 Front-end Repository
 
-This is the project front-end repository for the ZotZeus website.
+This is the project front-end repository for the ZotZeus website, created using a [template](https://github.com/hackuci/zothacks-2020-frontend) provided by a workshop hosted by Hack at UCI.
 
 ## Relevant Available Scripts 
 
